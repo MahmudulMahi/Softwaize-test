@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "BestSellers",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/best-sellers.png"
+  },
+  {
+    "id": 2,
+    "title": "New",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/new.png"
+  },
+  {
+    "id": 3,
+    "title": "Necklaces",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/necklaces.png"
+  },
+  {
+    "id": 4,
+    "title": "Rings",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/rings.png"
+  },
+  {
+    "id": 5,
+    "title": "Earrings",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/bracelets.png"
+  },
+  {
+    "id": 6,
+    "title": "Personalized",
+    "url": "https://storage.googleapis.com/abtest-img-bucket/jmp-9.2-sub-category-images/personalized.png"
+  }
+]
